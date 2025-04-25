@@ -1,0 +1,6 @@
+.rotate_90 align-center
+{
+    transform: rotate(270deg);
+    margin-left: auto ;
+    margin-right: auto ;
+}
