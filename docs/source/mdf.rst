@@ -6,30 +6,48 @@ Móveis em MDF
 Móveis
 ^^^^^^
 
-.. image:: _static/guarda-roupas.png
-    :align: center
+.. figure:: _static/guarda-roupas.png
+   :align: center
+
+   Guarda roupas com lugar para TV.
 
 .. figure:: _static/Guarda-roupas.gif
-    :align: center
+   :align: center
+   
+   Guarda roupas com lugar para TV.
 
-.. image:: _static/cafe.png
-    :align: center
+.. figure:: _static/cafe.png
+   :align: center
 
-.. image:: _static/espelho.png
-    :align: center
+   Café
 
-.. image:: _static/estante.png
-    :align: center
+.. figure:: _static/espelho.png
+   :align: center
+
+   Espelho
+
+.. figure:: _static/estante.png
+   :align: center
+
+   Estante moderna.
 
 .. figure:: _static/Churrascaria.gif
-    :align: center
+   :align: center
+
+   Armário
 
 .. figure:: _static/Cozinha.gif
-    :align: center
+   :align: center
+
+   Cozinha
 
 .. figure:: _static/Cozinha-cima.gif
-    :align: center
+   :align: center
+
+   Armário
+
     
 .. figure:: _static/Estante.gif
-    :align: center
-    
+   :align: center
+   
+   Estante 
