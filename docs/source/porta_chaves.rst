@@ -5,41 +5,63 @@ Utilidades em MDF
 Customizados
 ------------
 
-.. image:: _static/Bem-vindo-ao-nosso-lar.png
+.. figure:: _static/Bem-vindo-ao-nosso-lar.png
     :align: center
 
-.. image:: _static/Cade-o-chaves.png
+    Bem vindo ao nosso lar
+
+.. figure:: _static/Cade-o-chaves.png
     :align: center
 
-.. image:: _static/TDO.png
+    Cadê o Chaves?
+
+.. figure:: _static/TDO.png
     :align: center
 
-.. image:: _static/melissa-e-murilo.png
+    Turma do Oco
+
+.. figure:: _static/melissa-e-murilo.png
     :align: center
+
+    Personalizado
 
 .. figure:: _static/laser-photo.png
     :align: center
 
+    Personalizado
+
 .. figure:: _static/Chaves.png
     :align: center
 
+    Chaves
+
 Religiosos
 ----------
-.. image:: _static/Just-jesus.png
+.. figure:: _static/Just-jesus.png
     :align: center
 
-.. image:: _static/Deus-Esta-aqui.png
+    Jesus
+
+.. figure:: _static/Deus-Esta-aqui.png
     :align: center
 
-.. image:: _static/Deus-Esta-aqui-2.png
+    Deus está aqui!
+
+.. figure:: _static/Deus-Esta-aqui-2.png
     :align: center
 
-.. image:: _static/que-neste-lar.png
+    Deus está aqui!
+
+.. figure:: _static/que-neste-lar.png
     :align: center
+
+    Frases
 
 
 Rústico
 -------
 
-.. image:: _static/Chaves-rustico.png
+.. figure:: _static/Chaves-rustico.png
     :align: center
+
+    Rústico
