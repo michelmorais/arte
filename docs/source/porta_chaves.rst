@@ -64,4 +64,4 @@ Rústico
 .. figure:: _static/Chaves-rustico.png
     :align: center
 
-    Rústico
+    Chaves rústico
